@@ -1,3 +1,4 @@
+'''sql
 DROP DATABASE IF EXISTS interview_commands_practice;
 CREATE DATABASE interview_commands_practice;
 USE interview_commands_practice;
@@ -147,3 +148,4 @@ DROP TABLE staff;
 DROP DATABASE  interview_commands_practice;
 SHOW TABLES;
 SHOW DATABASES;
+'''
